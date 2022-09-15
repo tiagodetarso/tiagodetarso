@@ -3,7 +3,7 @@
 
 
 - 🔭 Atualmente não trabalho na área de TI. Sou engenheiro mecânico, buscando transição de carreira.    
-- 🌱 Estou estudando Python, HTML, PHP, CSS, C#, SQL, JavaScript e Ciência dos Dados.
+- 🌱 Estou estudando Python, HTML, PHP, CSS, C#, SQL, JavaScript, react-native e Ciência dos Dados.
 - 🤔 Todo tipo de ajuda é bem-vinda!
 - 📫 Contato: ttrgoncalves@gmail.com
 - 😄 Pronomes: ele/dele
