@@ -2,8 +2,9 @@
 
 
 
-- 🔭 Atualmente não trabalho na área de TI. Sou engenheiro mecânico, buscando transição de carreira.    
-- 🌱 Estou estudando Python, HTML, PHP, CSS, C#, MySQL, MongoDB, JavaScript, React, react-native e Ciência dos Dados.
+- 🔭 Atualmente não trabalho na área de TI. Sou engenheiro mecânico pela UFPR, buscando transição de carreira.
+- 🔭 Concluí curso Técnico em Desenvolvimento de Sistemas em dez/2022, no IFPR, campus Astorga-PR
+- 🌱 Possuo conhecimento em Python, HTML, PHP, CSS, C#, MySQL, MongoDB, JavaScript, React, react-native e Ciência dos Dados.
 - 🤔 Todo tipo de ajuda é bem-vinda!
 - 📫 Contato: ttrgoncalves@gmail.com
 - 😄 Pronomes: ele/dele
