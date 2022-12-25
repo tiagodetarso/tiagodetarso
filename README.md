@@ -2,8 +2,8 @@
 
 
 
-- 🔭 Atualmente não trabalho na área de TI. Sou engenheiro mecânico pela UFPR, buscando transição de carreira.
-- 🔭 Concluí curso Técnico em Desenvolvimento de Sistemas em dez/2022, no IFPR, campus Astorga-PR
+- 🔭 Atualmente não trabalho na área de TI. Sou engenheiro mecânico pela UFPR (dez/2009), buscando transição de carreira.
+- 🔭 Técnico em Desenvolvimento de Sistemas pelo IFPR (dez/2022)
 - 🌱 Possuo conhecimento em Python, HTML, PHP, CSS, C#, MySQL, MongoDB, JavaScript, React, react-native e Ciência dos Dados.
 - 🤔 Todo tipo de ajuda é bem-vinda!
 - 📫 Contato: ttrgoncalves@gmail.com
