@@ -1,10 +1,11 @@
 ### Olá, eu sou o Tiago de Tarso. Seja bem-vindo(a)! 👋
 
 
+- 🔭 Técnico em Desenvolvimento de Sistemas pelo IFPR (dez/2022);
+- 🔭 Especialista em Energias Renováveis e Eficiência Energética pela UFPR (jul/2020);
+- 🔭 Engenheiro Mecânico pela UFPR (dez/2009), buscando transição de carreira;
+- 🌱 Possuo conhecimento em Python, HTML, PHP, CSS, Node, JavaScript, ReactJS, React Native, C#(básico), Java(básico), MySQL, MongoDB, além de alguma noção de Ciência dos Dados utilizando python.
 
-- 🔭 Atualmente não trabalho na área de TI. Sou engenheiro mecânico pela UFPR (dez/2009), buscando transição de carreira.
-- 🔭 Técnico em Desenvolvimento de Sistemas pelo IFPR (dez/2022)
-- 🌱 Possuo conhecimento em Python, HTML, PHP, CSS, C#(básico), Java(básico), MySQL, MongoDB, JavaScript, ReactJS, React Native e alguma noção de Ciência dos Dados utilizando python.
 - 🤔 Todo tipo de ajuda é bem-vinda!
 - 📫 Contato: ttrgoncalves@gmail.com
 - 😄 Pronomes: ele/dele
