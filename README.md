@@ -4,7 +4,7 @@
 - 🔭 Técnico em Desenvolvimento de Sistemas pelo IFPR (dez/2022);
 - 🔭 Especialista em Energias Renováveis e Eficiência Energética pela UFPR (jul/2020);
 - 🔭 Engenheiro Mecânico pela UFPR (dez/2009), buscando transição de carreira;
-- 🌱 Possuo conhecimento em Python, HTML, PHP, CSS, Node, Express, Mongoose, JavaScript, ReactJS, NextJS, React Native, Redux, C#(básico), Java(básico), MySQL, MongoDB, POO, API Rest, além de alguma noção de Ciência dos Dados utilizando python e suas bibliotecas.
+- 🌱 Possuo conhecimento em Python, HTML, PHP, CSS, Node, Express, Mongoose, JavaScript, ReactJS, React Native, Redux, C#(básico), Java(básico), MySQL, MongoDB, API Rest, POO, além de alguma noção de Ciência dos Dados utilizando python e suas bibliotecas.
 
 - 🤔 Todo tipo de ajuda é bem-vinda!
 - 📫 Contato: ttrgoncalves@gmail.com
