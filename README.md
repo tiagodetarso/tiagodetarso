@@ -4,7 +4,9 @@
 - 🔭 Técnico em Desenvolvimento de Sistemas pelo IFPR (dez/2022);
 - 🔭 Especialista em Energias Renováveis e Eficiência Energética pela UFPR (jul/2020);
 - 🔭 Engenheiro Mecânico pela UFPR (dez/2009), buscando transição de carreira;
-- 🌱 Possuo conhecimento em Python, JavaScript / TypeScript, C#, PHP (básico), Java(básico), HTML, CSS, ReactJS, React Native, NodeJS, API Rest, Express, MongoDB, MySQL, Postgres, SQL Server, POO, além de alguma noção de Ciência dos Dados utilizando python e suas bibliotecas.
+- 🌱 Possuo conhecimento em JavaScript / TypeScript, Python, C# (básico), PHP (básico), Java(básico), HTML, CSS, ReactJS, ReduxJS, Styled-Components, React Native, NodeJS, API Rest, Express, MongoDB, MySQL, Postgrees.
+- Tenho um aplicativo simples, chamado Footteams, publicado na Google Playstore: https://play.google.com/store/apps/details?id=com.tiagodetarso.footteams
+- Desenvolvi um sistema de delivery para um estabelecimento de alimentação, com interface do usuário em JavaScript e ReactJs no conceito mobile first (https://boston-esfiharia.onrender.com), API Rest feita com Javascript, NodeJs e Mongoose, banco de dados Mongo DB Atlas, e uma interface para o lojista, também com Javascript e ReactJS, porém não esta no conceito mobile first.
 
 - 🤔 Todo tipo de ajuda é bem-vinda!
 - 📫 Contato: ttrgoncalves@gmail.com
